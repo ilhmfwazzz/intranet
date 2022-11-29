@@ -1,0 +1,9 @@
+input[type=text]:disabled {
+  background: #6c757d;
+  color: white;
+}
+
+#changeProfilePic:hover img {
+  cursor: pointer;
+  border-color:  rgb(129, 129, 129);
+}
